@@ -1,6 +1,6 @@
 # jpa-crud-demo
 ## Demo for using Spring JPA and MySQL with MVC
-- Clone the project and open it in NetBeans. Do not clean and build yet!
+- Clone the project (or download zip) and open it in NetBeans. Do not clean and build yet!
 - Open XAMPP Control Panel Dashboard.
 - Start Apache.
 - Start MySQL.
