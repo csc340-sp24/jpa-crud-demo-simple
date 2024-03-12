@@ -12,7 +12,7 @@ import lombok.Setter;
 
 /**
  *
- * @author csc340-f23
+ * @author csc340
  */
 @Entity
 @Table(name = "product")
