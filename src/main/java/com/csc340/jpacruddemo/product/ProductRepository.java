@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.Query;
 
 /**
  *
- * @author csc340-f23
+ * @author csc340
  */
 public interface ProductRepository extends JpaRepository<Product, Long> {
 
