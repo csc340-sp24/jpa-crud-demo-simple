@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author csc340-f23
+ * @author csc340
  */
 @Service
 public class ProductService {
