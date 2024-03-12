@@ -12,7 +12,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author csc340-f23
+ * @author csc340
  */
 @Repository
 public class UserRepository {
